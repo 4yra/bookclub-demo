@@ -1,0 +1,27 @@
+{
+    "b1":{
+        "clubid": "1",
+        "clubname": "Undr",
+        "genre": ["Audio Books", "Non-fiction", "Drama"],
+        "members": ["one", "two", "three"],
+        "finishedbooks": ["Book1", "Book2", "Book3"],
+        "currentreading": "Awsome Book"
+    },
+    "b2":{
+        "clubid":"2",
+        "clubname":"Kalle",
+        "genre": ["Horror", "Non-fiction"],
+        "members": ["one", "two", "three"],
+        "finishedbooks": ["Book1", "Book2", "Book3"],
+        "currentreading": "Cool information"
+    },
+    "b3":{
+        "clubid":"3",
+        "clubname":"Liz",
+        "genre": ["Feelgood", "Horror", "Drama"],
+        "members": ["one", "two", "three"],
+        "finishedbooks": ["Book1", "Book2", "Book3"],
+        "currentreading": "Horror Title"
+    }
+
+}

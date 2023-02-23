@@ -1,0 +1,25 @@
+{
+    "m1" :{
+        "username": "Undr",
+        "currentreading": "Awsome Book",
+        "bookcount": "1088",
+        "wordcount": "2924138",
+        "levalimage":"imageLeval 342"
+    },
+
+    "m2" :{
+        "username":"Kalle",
+        "currentreading": "Cool information",
+        "bookcount":"18",
+        "wordcount":"24138",
+        "levalimage":"imageLeval 4"
+    },
+    
+    "m3" : {
+        "username":"Liz",
+        "currentreading": "Horror Title",
+        "bookcount":"42",
+        "wordcount":"84138",
+        "levalimage":"imageLeval 23"
+    }
+}
